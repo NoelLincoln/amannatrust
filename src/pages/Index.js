@@ -1,4 +1,4 @@
-import React, {Fragment} from React;
+import React, {Fragment} from 'react';
 
 function Index(){
     return (
